@@ -9,7 +9,7 @@ If you encounter any errors, this section is a good place to start troubleshooti
 If installation fails, retry with:
 
 ```bash
-source ~/.local/share/omakube/install.sh
+source ~/.local/share/omakub/install.sh
 ```
 
 ### Permission Issues

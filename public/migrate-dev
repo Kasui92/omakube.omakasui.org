@@ -1,1 +1,2 @@
-eval "$(wget -qO- https://raw.githubusercontent.com/Kasui92/omakube/dev/migrate.sh)"
+OMAKUB_REF=dev
+eval "$(wget -qO- https://raw.githubusercontent.com/Kasui92/omakube/main/migrate.sh)"
